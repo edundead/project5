@@ -1,0 +1,83 @@
+body {
+  font-family: "League Gothic", sans-serif;
+  font-size: 18px;
+  line-height: 1.5;
+  margin: 0;
+  background: url("https://image.freepik.com/free-vector/abstract-background-with-a-3d-pattern_1319-68.jpg");
+}
+
+.card {
+  background-color: #ccc;
+  padding: 20px;
+  border-radius: 10px;
+  background-color: white;
+  width: 500px;
+  margin: 0 auto;
+  box-shadow: 0 5px 10px #ccc;
+}
+.cardphoto {
+  border: 1px solid black;
+  border-radius: 50%;
+  width: 300px;
+  height: 300px;
+  display: block;
+  margin: 0 auto;
+  box-shadow: 0 5px 10px rgb(164, 164, 164);
+}
+
+.card-title {
+  font-size: 30px;
+  text-align: center;
+  color: rgb(70, 0, 126);
+}
+
+.card-text {
+  font-size: 20px;
+}
+
+.subtitle {
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  color: rgb(121, 0, 162);
+}
+
+.card-list {
+  font-size: 20px;
+  padding-left: 0;
+  list-style-position: inside;
+}
+
+a {
+  color: rgb(1, 87, 0);
+  text-decoration: none;
+}
+
+.subtitlee {
+  text-align: center;
+  text-decoration: none;
+  font-size: 20px;
+  color: rgb(121, 0, 162);
+}
+
+p {
+  text-align: center;
+}
+
+ul {
+  list-style: none;
+  text-align: center;
+}
+
+.skills {
+  border: 1px solid black;
+  border-radius: 20px;
+  background-color: rgb(235, 255, 134);
+}
+
+.contacts {
+  margin-top: 30px;
+  border: 1px solid black;
+  border-radius: 20px;
+  background-color: rgb(123, 255, 218);
+}
